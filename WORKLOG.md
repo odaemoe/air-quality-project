@@ -151,7 +151,7 @@
   • Фильтр по периоду (диапазон дат)  
 \-Финализация проекта  
 \- Дашборд сохранён как: \`Агрегатор качества воздуха\`  
-\- Опубликован с публичной ссылкой https://datalens.ru/datasets/qjtrxco9kcp8a-air-quality-combined-data
+\- Опубликован с публичной ссылкой https://datalens.yandex/unx30nwgogyse
    
  
 
